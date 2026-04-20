@@ -8,8 +8,7 @@
 
 ## About Me
 - 🎓 B.Tech CSE Student
-- 💻 Learning Web Development
-- 🌱 Currently learning Java, MySQL, DSA
+- 💻 Learning Java & DSA
 - 🎯 Goal: Become Software Engineer
 
 ## Tech Stack
